@@ -1,1 +1,1 @@
-# US-Healthcare-Analytics-Power-BI-Insights
+# US-Healthcare-Analytics-PowerBI-Insights
