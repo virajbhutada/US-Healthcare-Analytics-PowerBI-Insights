@@ -27,19 +27,20 @@ Discover valuable insights into the U.S. healthcare industry from 2019 to 2020 w
 - **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings.
 
 
-## Purpose Section
+### Purpose Section
 
 Explore the purpose section, setting the context for the project and its objectives. Understand the driving force behind the U.S. Healthcare Analytics Insights initiative.
 
-## ER-Diagram
+### ER-Diagram
 
 The Entity Relationship Diagram visually represents the data structure and relationships within the healthcare analytics project. Gain a deeper understanding of the underlying data architecture.
 
+---
 
 ## Insights
 
 ### Executive Summary
-![Executive Summary](https://raw.githubusercontent.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/main/assets/143819712/866d13ff-f1e6-46d1-8db7-5242f9e1002f.png)
+![executive_summary](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a83ecbca-af9c-4055-a59b-78710c14d13a) 
 This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020.
 
 ### Healthcare Provider Metrics
