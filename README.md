@@ -4,11 +4,11 @@
 
 Delve into the U.S. Healthcare Analytics Insights repository, a meticulous data analysis endeavor offering profound insights into the dynamics of the United States healthcare industry during the pivotal years of 2019-2020.
 
-**Unlocking Insights for Informed Healthcare Decision-Making**
+- **Unlocking Insights for Informed Healthcare Decision-Making**
 
 This repository offers a comprehensive analysis of the U.S. healthcare industry for the years 2019-2020 through PowerBI. Dive into detailed reports and visualizations that provide strategic insights for healthcare stakeholders.
 
-**Empowering Informed Healthcare Decisions through Analytical Insights**
+- **Empowering Informed Healthcare Decisions through Analytical Insights**
 
 Discover valuable insights into the U.S. healthcare industry from 2019 to 2020 with this repository powered by PowerBI. Immerse yourself in detailed reports and compelling visualizations that deliver strategic intelligence for stakeholders in the healthcare landscape.
 
