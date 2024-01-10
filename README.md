@@ -65,7 +65,7 @@ Entity Relationship Diagram illustrating data structure and relationships: Gain 
 
 ## Full Report
 
-For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights PDF](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/report.pdf).
+For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/report.pdf).
 
 ---
 
