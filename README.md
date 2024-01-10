@@ -6,7 +6,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 - **Unlocking Insights for Informed Healthcare Decision-Making:** This endeavor offers a comprehensive analysis of the U.S. healthcare industry for the years 2019-2020 through PowerBI. Dive into detailed reports and visualizations that provide strategic insights for healthcare stakeholders.
 
-- **Empowering Informed Healthcare Decisions through Analytical Insights:** Discover valuable insights into the U.S. healthcare industry from 2019 to 2020 with this repository powered by PowerBI. Immerse yourself in detailed reports and compelling visualizations that deliver strategic intelligence for stakeholders in the healthcare landscape.
+- **Empowering Informed Healthcare Decisions through Analytical Insights:** Discover valuable insights into the U.S. healthcare industry from 2019 to 2020 with this PowerBI-driven initiative. Explore detailed reports and compelling visualizations that deliver strategic intelligence for stakeholders in the healthcare landscape.
 
 ---
 
