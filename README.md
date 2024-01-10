@@ -36,12 +36,6 @@ This section provides a concise yet comprehensive summary of key insights and fi
 
 ---
 
-### Healthcare Provider Metrics
-![Healthcare Provider Metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/67c5636f-8a8e-49e1-8002-b4a7e8975671)
-In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape.
-
----
-
 ### Hospital Insights
 ![Hospital Insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/38e075c0-93c7-4646-b4cc-75002f12e040)
 Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.
@@ -51,6 +45,12 @@ Explore comprehensive analyses of hospital performance, including metrics on pat
 ### Patient Outcome Analysis
 ![Patient Outcome Analysis](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/167e9f82-d9a5-4f01-9537-0dd6239aa950)
 Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions.
+
+---
+
+### Healthcare Provider Metrics
+![Healthcare Provider Metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/67c5636f-8a8e-49e1-8002-b4a7e8975671)
+In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape.
 
 ---
 
