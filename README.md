@@ -58,6 +58,7 @@ In-depth analysis and metrics for payer-provider relationships: This image showc
 ![Healthcare ERD](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/10827e79-3ed8-4d53-a414-67925a1265a9)
 Entity Relationship Diagram illustrating data structure and relationships: Gain a deeper understanding of the underlying data architecture through the Entity Relationship Diagram (ERD). This visual representation showcases the relationships within the healthcare analytics project.
 
+---
 
 ## Full Report
 
