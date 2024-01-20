@@ -87,5 +87,5 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 ---
 
 ### Author
-#### [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+### [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
 
