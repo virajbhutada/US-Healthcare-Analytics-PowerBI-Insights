@@ -91,3 +91,9 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 
 ## Author: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
 
+---
+
+## License 
+
+This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
+
