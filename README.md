@@ -30,6 +30,25 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ## Insights
 
+
+| Executive Summary | Hospital Insights |
+|-------------|-------------|
+| ![Dashboard 1](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a83ecbca-af9c-4055-a59b-78710c14d13a) | ![Dashboard 2](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/38e075c0-93c7-4646-b4cc-75002f12e040) |
+| This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
+
+| Patient Outcome Analysis | Healthcare Provider Metrics |
+|-------------|-------------|
+| ![Dashboard 3](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/167e9f82-d9a5-4f01-9537-0dd6239aa950) | ![Dashboard 4](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/67c5636f-8a8e-49e1-8002-b4a7e8975671) |
+| Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. |  In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. |
+
+| Monthly Expenses Trends | Healthcare ERD |
+|--------------------------|-----------------|
+| ![Monthly Expenses Trends](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/fca4dc04-5c5d-489f-9cd6-314aef0e1a7e) | |  ![Healthcare ERD](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5b69a3b5-6430-4720-9257-30851059ac2b)  |
+| **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. | **Healthcare ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the healthcare analytics project. |
+
+---
+
+
 ### Executive Summary
 ![executive_summary](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a83ecbca-af9c-4055-a59b-78710c14d13a) 
 This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020.
