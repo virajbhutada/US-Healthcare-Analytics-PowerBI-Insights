@@ -1,4 +1,4 @@
-# US-Healthcare-Analytics-PowerBI-Insights
+# U.S. Healthcare Dynamics
 ---
 ##  Overview
 
