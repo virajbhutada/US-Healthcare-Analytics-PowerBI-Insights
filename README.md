@@ -43,7 +43,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 | Monthly Expenses Trends | Healthcare ERD |
 |--------------------------|-----------------|
-| ![Monthly Expenses Trends](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/fca4dc04-5c5d-489f-9cd6-314aef0e1a7e) | |  ![Healthcare ERD](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5b69a3b5-6430-4720-9257-30851059ac2b)  |
+| ![Monthly Expenses Trends](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/fca4dc04-5c5d-489f-9cd6-314aef0e1a7e) | ![Healthcare ERD](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5b69a3b5-6430-4720-9257-30851059ac2b) |
 | **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. | **Healthcare ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the healthcare analytics project. |
 
 ---
