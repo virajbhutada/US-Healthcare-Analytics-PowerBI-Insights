@@ -70,7 +70,7 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
    ```bash
    cd US-Healthcare-Analytics-PowerBI-Insights
    ```
-   Open `US-healthcare-dynamics.pbix` using Power BI Desktop.
+   Open `US_Healthcare_Dynamics.pbix` using Power BI Desktop.
 
 3. **Explore the Insights and Findings Interactively.**
 
