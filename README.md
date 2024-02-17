@@ -6,26 +6,15 @@
 
 This project intricately analyzes the U.S. healthcare landscape from 2019 to 2020, offering profound insights into key facets of the industry. It is meticulously designed, with each page unfolding a different chapter, providing valuable learnings within the evolving healthcare narrative. Explore the heartbeat of healthcare, where every word is meticulously chosen for a meaningful journey.
 
-- **Unlocking Insights for Informed Healthcare Decision-Making:** This endeavor offers a comprehensive analysis of the U.S. healthcare industry for the years 2019-2020 through PowerBI. Dive into detailed reports and visualizations that provide strategic insights for healthcare stakeholders.
+## Key Features
 
-- **Empowering Informed Healthcare Decisions through Analytical Insights:** Discover valuable insights into the U.S. healthcare industry from 2019 to 2020 with this PowerBI-driven initiative. Explore detailed reports and compelling visualizations that deliver strategic intelligence for stakeholders in the healthcare landscape.
+- **Unlocking Insights for Informed Healthcare Decision-Making:** This endeavor offers a comprehensive analysis of the U.S. healthcare industry for the years 2019-2020 through PowerBI. Dive into detailed reports and visualizations that provide strategic insights for healthcare stakeholders.
 
 - **DAX Calculations:** Utilizing DAX (Data Analysis Expressions), the dashboard computes key metrics and custom measures, facilitating in-depth analysis of patient demographics, hospital performance, and payer-provider dynamics.
 
 - **Data Cleaning and Transformation:** Rigorous data cleaning and transformation processes ensure the accuracy, consistency, and analysis-readiness of the data.
 
 - **Interactive Visualizations:** Interactive visualizations and dynamic filters are integrated into the dashboard, enabling stakeholders to effectively explore healthcare data. This functionality supports trend analysis and scenario modeling, facilitating informed decision-making.     
-
-
-### Key Features:
-
-- **Comprehensive Analysis:** Dive into detailed reports and visualizations offering strategic insights for healthcare stakeholders, facilitating informed decision-making.
-  
-- **DAX Calculations:** Utilize DAX (Data Analysis Expressions) for in-depth analysis of patient demographics, hospital performance, and payer-provider dynamics.
-  
-- **Data Quality Assurance:** Rigorous data cleaning and transformation processes ensure accuracy, consistency, and analysis readiness.
-  
-- **Interactive Visualizations:** Integrated interactive visualizations and dynamic filters enable effective exploration of healthcare data, supporting trend analysis and scenario modeling.
 
 ---
 
