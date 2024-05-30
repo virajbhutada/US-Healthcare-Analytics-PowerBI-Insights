@@ -6,6 +6,8 @@
 
 This project intricately analyzes the U.S. healthcare landscape from 2019 to 2020, offering profound insights into key facets of the industry. It is meticulously designed, with each page unfolding a different chapter, providing valuable learnings within the evolving healthcare narrative. Explore the heartbeat of healthcare, where every word is meticulously chosen for a meaningful journey.
 
+---
+
 ## Key Features
 
 - **Unlocking Insights for Informed Healthcare Decision-Making:** This endeavor offers a comprehensive analysis of the U.S. healthcare industry for the years 2019-2020 through PowerBI. Dive into detailed reports and visualizations that provide strategic insights for healthcare stakeholders.
