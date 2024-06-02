@@ -100,8 +100,7 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 ---
 
 
-
-## License 
+[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
 
 This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
 
