@@ -75,8 +75,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/docs/project_synopsis.docx).
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtu.be/PVvWitwDRGg?si=fe24BF-klaIVt9Ys)
-
+---
 <p align="center">
   <a href="https://youtu.be/PVvWitwDRGg?si=fe24BF-klaIVt9Ys">
     <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="Watch on YouTube">
