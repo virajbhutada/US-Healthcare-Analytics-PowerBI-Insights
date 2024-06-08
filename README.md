@@ -114,7 +114,7 @@ This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), foc
 ---
 
 
-## Connect With Me
+### Connect With Me
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
