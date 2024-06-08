@@ -16,6 +16,8 @@
 
 This project intricately analyzes the U.S. healthcare landscape from 2019 to 2020, offering profound insights into key facets of the industry. It is meticulously designed, with each page unfolding a different chapter, providing valuable learnings within the evolving healthcare narrative. Explore the heartbeat of healthcare, where every word is meticulously chosen for a meaningful journey.
 
+[![Power BI](https://img.shields.io/badge/Power%20BI-Viraj%20Bhutada-gold?logo=powerbi&style=flat&logoColor=white)](https://app.powerbi.com/links/x_BEXo8_4A?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare&bookmarkGuid=ef4fde42-5ed7-4a3a-b773-200d74946dec)
+
 ---
 
 ## Key Features
@@ -84,8 +86,8 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/docs/project_synopsis.docx).
 
----
-<p align="center">
+
+<p align="left">
   <a href="https://youtu.be/PVvWitwDRGg?si=fe24BF-klaIVt9Ys">
     <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="Watch on YouTube">
   </a>
@@ -117,7 +119,7 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 ---
 
 
-[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
 
 This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
 
