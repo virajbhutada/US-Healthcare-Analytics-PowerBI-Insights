@@ -1,7 +1,17 @@
 # U.S. Healthcare Industry Dynamics (2019-2020)
 
----
+## Table of Contents
 
+1. [Project Overview](#project-overview)
+2. [Key Features](#key-features)
+3. [Highlights](#highlights)
+4. [Insights](#insights)
+5. [Full Report](#full-report)
+6. [Usage](#usage)
+7. [Contribution](#contribution)
+8. [Conclusion](#conclusion)
+
+---
 ##  Project Overview
 
 This project intricately analyzes the U.S. healthcare landscape from 2019 to 2020, offering profound insights into key facets of the industry. It is meticulously designed, with each page unfolding a different chapter, providing valuable learnings within the evolving healthcare narrative. Explore the heartbeat of healthcare, where every word is meticulously chosen for a meaningful journey.
@@ -60,9 +70,9 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 | **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. | 
 
 ---
----
 
-# ER Diagram
+
+### ER Diagram
 
 ![er_diagram](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/6e59ff1f-a12e-4ab3-a480-05a29eac3d69)
 
@@ -100,7 +110,7 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 ---
 
-## Contributing
+## Contribution
 
 Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/issues) or submitting a [pull request](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/pulls).
 
@@ -113,6 +123,33 @@ This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), foc
 
 ---
 
+## Conclusion
+
+The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensive and insightful analysis of the healthcare landscape, utilizing advanced data analytics and visualization tools. Through meticulous data cleaning, DAX calculations, and interactive visualizations, this project provides valuable insights and strategic intelligence for healthcare stakeholders. 
+
+### Key Insights
+
+- **Enhanced Decision-Making:**
+  - The interactive PowerBI dashboard facilitates informed decision-making by offering detailed and dynamic visualizations of key healthcare metrics.
+  - Strategic insights into hospital performance, patient outcomes, and healthcare provider metrics aid in optimizing operational efficiency and improving patient care.
+
+- **Hospital Performance Trends:**
+  - Detailed analyses of patient admissions, discharge rates, and overall hospital efficiency reveal critical trends that healthcare administrators can leverage for better resource management.
+
+- **Patient Outcome Analysis:**
+  - Examination of patient demographics, treatment efficacy, and potential areas for medical intervention highlight opportunities for enhancing patient care and outcomes.
+
+- **Financial Optimization:**
+  - Insights into payer-provider relationships and monthly expense trends help identify potential areas for cost optimization and revenue enhancement.
+
+- **Comprehensive Data Structure:**
+  - The ER Diagram provides a clear understanding of the data architecture, supporting robust and accurate analyses.
+
+### Closing Remarks
+
+This project underscores the importance of leveraging data analytics in the healthcare sector. Offering detailed insights into various facets of the industry empowers stakeholders to make data-driven decisions, ultimately enhancing the quality of care and operational efficiency. The U.S. Healthcare Industry Dynamics project stands as a testament to the transformative power of data in understanding and improving the healthcare landscape.
+
+---
 
 ### Connect With Me
 
